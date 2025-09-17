@@ -52,10 +52,11 @@ python dashboard.py
 # Or run the OpenCV traffic detection script
 python opencv.py
 
-
+```
 
 ## 🎥 Demo
 
 [![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
 
 [![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
+
