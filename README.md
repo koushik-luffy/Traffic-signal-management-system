@@ -24,13 +24,21 @@ It helps in reducing congestion by adjusting traffic light timing dynamically ba
 
 ##  Project Structure
 ├── cars.xml # Haar cascade for car detection
+
 ├── dashboard.py # Main dashboard script
+
 ├── opencv.py # Core OpenCV logic for traffic detection
+
 ├── demo.mp4 # Sample demo video
+
 ├── laneA.mp4 # Lane A test video
+
 ├── laneB.mp4 # Lane B test video
+
 ├── laneC.mp4 # Lane C test video
+
 ├── laneD.mp4 # Lane D test video
+
 └── README.md # Documentation
 
 
@@ -59,5 +67,6 @@ python opencv.py
 [![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
 
 [![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
+
 
 
