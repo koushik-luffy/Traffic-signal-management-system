@@ -1,11 +1,11 @@
-# 🚦 Traffic Signal Management System
+##  Traffic Signal Management System
 
 This project simulates an **AI-powered traffic signal management system** that uses computer vision to detect vehicles and control traffic signals.  
 It helps in reducing congestion by adjusting traffic light timing dynamically based on real-time video input.
 
 ---
 
-## 📌 Features
+##  Features
 - Vehicle detection using **OpenCV** and Haar cascades (`cars.xml`).
 - Supports multiple lane video inputs (`laneA.mp4`, `laneB.mp4`, etc.).
 - Real-time dashboard (`dashboard.py`) to visualize traffic flow.
@@ -14,7 +14,7 @@ It helps in reducing congestion by adjusting traffic light timing dynamically ba
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python 3**
 - **OpenCV** (for image & video processing)
 - **Streamlit / Tkinter** (for dashboard visualization, optional)
@@ -22,7 +22,7 @@ It helps in reducing congestion by adjusting traffic light timing dynamically ba
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ├── cars.xml # Haar cascade for car detection
 ├── dashboard.py # Main dashboard script
 ├── opencv.py # Core OpenCV logic for traffic detection
@@ -36,7 +36,7 @@ It helps in reducing congestion by adjusting traffic light timing dynamically ba
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - [Python 3.x](https://www.python.org/downloads/)
@@ -54,9 +54,10 @@ python opencv.py
 
 ```
 
-## 🎥 Demo
+##  Demo
 
 [![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
 
 [![Watch the demo](https://img.youtube.com/vi/sLbDi59argg/0.jpg)](https://youtu.be/sLbDi59argg)
+
 
